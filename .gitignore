@@ -14,3 +14,6 @@ gradle-app.setting
 
 # other stuff
 note.md
+
+# native FreeType crash dumps at game exit — junk
+hs_err_pid*.log
