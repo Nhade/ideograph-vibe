@@ -1,10 +1,3 @@
-# Ideograph_Adventure
+# ideograph-vibe
 
-@PixelCat31415 super big DD 
-nacho angrymention
-// !false
-
-@PixelCat31415 tanoshi master
-// !true
-
-
+A multiplayer vibe-coding experiment: Discord prompts drive headless Claude Code sessions that evolve this old libgdx platformer ([Ideograph_Adventure](https://github.com/183234/Ideograph_Adventure)).
