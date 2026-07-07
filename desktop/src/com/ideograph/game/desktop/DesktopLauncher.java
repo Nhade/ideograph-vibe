@@ -10,7 +10,7 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
             LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
             config.foregroundFPS = 480;
-            config.title = "Ideograph Adventure";
+            config.title = "Ideograph Adventure (vibe edition)";
             config.width = 1920;
             config.height = 1080;
             config.resizable = false;
